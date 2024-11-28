@@ -2,7 +2,7 @@
     <a href="https://github.com/yii2tech" target="_blank">
         <img src="https://avatars2.githubusercontent.com/u/12951949" height="100px">
     </a>
-    <h1 align="center">ActiveRecord Soft Delete Extension for Yii2</h1>
+    <h1 align="center">Fork - ActiveRecord Soft Delete Extension for Yii2</h1>
     <br>
 </p>
 
